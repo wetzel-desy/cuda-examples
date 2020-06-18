@@ -1,3 +1,4 @@
+// This example is taken from https://devblogs.nvidia.com/even-easier-introduction-cuda/
 #include <iostream>
 #include <stdio.h>
 #include <math.h>
